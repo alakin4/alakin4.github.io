@@ -13,7 +13,7 @@ name                     : &name "Alan Kinene"
 description              : &description "Ph.D. Candidate"
 url                      : https://www.alankinene.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "alakin4/alakin4.github.io/"
+repository               : "alakin4/personal_website/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -115,6 +115,10 @@ include:
   - .htaccess
   - _pages
   - files
+  - package.json
+  - node_modules
+  - Gemfile
+  - .jekyll-assets-cache
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -134,7 +138,6 @@ exclude:
   - LICENSE
   - log
   - node_modules
-  - package.json
   - Rakefile
   - README
   - tmp
