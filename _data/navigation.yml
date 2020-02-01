@@ -12,11 +12,11 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+#  - title: "Portfolio"
+#    url: /portfolio/
 
   - title: "CV"
-    url: /cv/
+    url: https://www.linkedin.com/in/alan-kinene-68a6967a/ #/cv/
     
-  - title: "Guide"
-    url: /markdown/
+#  - title: "Guide"
+#    url: /markdown/
