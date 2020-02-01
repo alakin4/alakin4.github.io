@@ -11,7 +11,7 @@ title                    : "Alan Kinene"
 title_separator          : "-"
 name                     : &name "Alan Kinene"
 description              : &description "Ph.D. Candidate"
-url                      : https://alankinene.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://www.alankinene.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "alakin4/alakin4.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -96,7 +96,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "ralan-kinene-68a6967a"
+  linkedin         : "alan-kinene-68a6967a"
   orcid            :
   pinterest        :
   soundcloud       :
