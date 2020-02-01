@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
-collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+title: "TNK118: Traffic Demand Modelling"
+collection: Assisting
+type: "Undergraduate course"
+permalink: /teaching/Demand-modelling
+venue: "Linköping University, Communication and Transportation Systems"
+date: 2020-02-01
+location: "Norrköping, Sweden"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+I am a lab assistant to this course given by Associate Proffesor Clas Rydergren. I have assisted in this coure in **Spring 2018**, **Winter 2019**, and **Winter 2020**.
