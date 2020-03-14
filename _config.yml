@@ -4,16 +4,16 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
-
+##"alakin4/alakin4.github.io/"
 # Site Settings
 locale                   : "en-US"
 title                    : "Alan Kinene"
 title_separator          : "-"
 name                     : &name "Alan Kinene"
 description              : &description "Ph.D. Candidate"
-url                      :  "https://alakin4.github.io"  #the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      :  "https://www.alankinene.com"  #the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "alakin4/alakin4.github.io/"
+repository               : "alakin4/personal-website/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
